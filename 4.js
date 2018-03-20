@@ -37,9 +37,6 @@ const  question =(n) =>{
         case 12:
         answer="A";
         break;
-        default:
-        return "erro";
-        break;
     }
     return answer;
 };
